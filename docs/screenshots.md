@@ -1,9 +1,10 @@
 # Screenshot Gallery
 
 ## Dashboard Overview
+----
+## Screenshot 1
 
-![Dashboard](../screenshots/Screenshot%202026-06-14%20141118.png)
-
+![Screenshot 6](../screenshots/Screenshot%202026-06-14%20155322.png)
 ---
 
 ## Screenshot 2
@@ -30,9 +31,7 @@
 
 ---
 
-## Screenshot 6
 
-![Screenshot 6](../screenshots/Screenshot%202026-06-14%20155322.png)
 
 ---
 
