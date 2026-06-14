@@ -34,36 +34,13 @@ into a single operational framework.
 * Security-hardened deployment
 
 ---
-
-## Architecture
-
-See:
-
-[Architecture](docs/architecture.md)
+**[Architecture](docs/architecture.md)
 ---
-
-## Infrastructure
-
-See:
-
-- [Infrastructure](docs/infrastructure.md)
-
+**[Infrastructure](docs/infrastructure.md)
 ---
-
-## Security
-
-See:
-
-- [Security](docs/security.md)
-
+**[Security](docs/security.md)
 ---
-
-## Research Framework
-
-See:
-
-- [Deployment](docs/deployment.md)
-
+**[Deployment](docs/deployment.md)**
 
 ## Documentation
 
