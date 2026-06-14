@@ -4,7 +4,8 @@
 ----
 ## Screenshot 1
 
-![Screenshot 6](../screenshots/Screenshot%202026-06-14%20155322.png)
+![Screenshot 7](../screenshots/Screenshot%202026-06-14%20155339.png)
+
 ---
 
 ## Screenshot 2
@@ -31,10 +32,12 @@
 
 ---
 
+## Screenshot 6
 
+![Screenshot 6](../screenshots/Screenshot%202026-06-14%20155322.png)
 
 ---
 
-## Screenshot 7
 
-![Screenshot 7](../screenshots/Screenshot%202026-06-14%20155339.png)
+
+
