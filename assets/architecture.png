@@ -1,0 +1,18 @@
+TradingView
+      ↓
+Signal Processing
+      ↓
+ARIS Core
+ ├─ Risk Controls
+ ├─ Position Management
+ ├─ Recovery Engine
+ └─ Execution Engine
+      ↓
+Broker API
+      ↓
+Market
+
+Dashboard
+Monitoring
+Cloud Infrastructure
+Security Layer
