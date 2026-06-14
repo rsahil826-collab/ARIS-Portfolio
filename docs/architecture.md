@@ -10,7 +10,7 @@ The platform separates signal processing, execution, monitoring, recovery, and i
 
 ## Architecture Diagram
 
-![ARIS Architecture](../assets/architecture.png)
+![ARIS Architecture](../assets/arch.png)
 
 ---
 
