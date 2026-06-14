@@ -34,9 +34,9 @@ into a single operational framework.
 * Security-hardened deployment
 
 ---
-[Architecture](docs/architecture.md)
-
 ![ARIS Architecture](assets/ChatGPT%20Image%20Jun%2014,%202026,%2009_36_54%20PM.png)
+---
+[Architecture](docs/architecture.md)
 ---
 [Infrastructure](docs/infrastructure.md)
 ---
