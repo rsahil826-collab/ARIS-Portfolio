@@ -43,7 +43,5 @@ into a single operational framework.
 [Deployment](docs/deployment.md)
 ---
 
-## System Architecture
 
-![ARIS Architecture](assets/architecture.png)
 
