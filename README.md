@@ -1,87 +1,66 @@
-# ARIS – Automated Trading & Risk Intelligence System
+# ARIS
 
-## Overview
+### Automated Trading & Risk Intelligence System
 
-ARIS is a cloud-hosted automated trading and execution platform designed to bridge quantitative research and production-grade automation.
-
-The platform integrates strategy development, automated execution, risk management, recovery systems, monitoring, and cloud infrastructure into a single operational framework.
+Cloud-hosted automated execution infrastructure built for quantitative research, risk-controlled deployment, and production-grade reliability.
 
 ---
 
-## Core Capabilities
+## What is ARIS?
 
-### Automated Execution
+ARIS is an automated trading platform designed to bridge the gap between strategy development and live execution.
 
-* Real-time signal processing
-* Automated order execution
-* Multi-leg strategy support
-* Broker API integration
+The system integrates:
 
-### Risk Management
+* Signal Processing
+* Automated Execution
+* Risk Controls
+* Recovery Systems
+* Monitoring Infrastructure
+* Cloud Deployment
 
-* Position validation
-* Trading controls
-* State monitoring
-* Order reconciliation
-
-### Reliability
-
-* Startup recovery
-* Position synchronization
-* Active order tracking
-* State validation
-
-### Monitoring
-
-* Live dashboard
-* Position monitoring
-* Order tracking
-* System health checks
+into a single operational framework.
 
 ---
 
-## Technology Stack
+## Key Highlights
 
-### Backend
-
-* Python
-* Flask
-
-### Infrastructure
-
-* Oracle Cloud
-* Ubuntu Linux
-* Nginx
-* Systemd
-
-### Development
-
-* Git
-* GitHub
-
-### Security
-
-* HTTPS
-* Firewall Protection
-* Rate Limiting
-* Session Authentication
-* Intrusion Prevention
+* Python-based automation platform
+* Cloud-hosted deployment
+* Real-time execution engine
+* Recovery and reconciliation systems
+* Quantitative research workflow
+* Production monitoring infrastructure
+* Security-hardened deployment
 
 ---
 
-## Quantitative Research
+## Architecture
 
-The framework has undergone extensive testing including:
+See:
 
-* Multi-year backtesting
-* Drawdown analysis
-* Profit factor evaluation
-* Parameter sensitivity testing
-* Walk-forward analysis
-* Capital scaling studies
+* docs/architecture.md
 
 ---
 
-## Project Status
+## Infrastructure
 
-Actively developed and deployed with cloud-hosted monitoring, automated execution, and operational risk controls.
+See:
+
+* docs/infrastructure.md
+
+---
+
+## Security
+
+See:
+
+* docs/security.md
+
+---
+
+## Research Framework
+
+See:
+
+* docs/research.md
