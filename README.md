@@ -45,9 +45,6 @@ into a single operational framework.
 [Deployment](docs/deployment.md)
 ---
 
-
 ## Screenshots
-
-View all platform screenshots:
 
 [View Screenshot Gallery](docs/screenshots.md)
