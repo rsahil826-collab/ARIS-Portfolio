@@ -39,15 +39,14 @@ into a single operational framework.
 
 See:
 
-* docs/architecture.md
-
+[Architecture](docs/architecture.md)
 ---
 
 ## Infrastructure
 
 See:
 
-* docs/infrastructure.md
+- [Infrastructure](docs/infrastructure.md)
 
 ---
 
@@ -55,7 +54,7 @@ See:
 
 See:
 
-* docs/security.md
+- [Security](docs/security.md)
 
 ---
 
@@ -63,4 +62,9 @@ See:
 
 See:
 
-* docs/research.md
+- [Deployment](docs/deployment.md)
+
+
+## Documentation
+
+
