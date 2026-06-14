@@ -2,9 +2,15 @@
 
 ## Overview
 
-ARIS follows a modular architecture designed around reliability, risk management, and operational control.
+ARIS follows a modular architecture designed around reliability, risk management, monitoring, and operational control.
 
-The platform separates signal generation, execution, monitoring, and recovery into independent components to improve fault isolation and maintainability.
+The platform separates signal processing, execution, monitoring, recovery, and infrastructure management into independent components to improve maintainability and fault isolation.
+
+---
+
+## Architecture Diagram
+
+![ARIS Architecture](../assets/architecture.png)
 
 ---
 
@@ -12,35 +18,32 @@ The platform separates signal generation, execution, monitoring, and recovery in
 
 ### Signal Processing
 
-Responsible for receiving and validating incoming trading signals before execution.
+Receives, validates, parses, and normalizes incoming signals before execution.
 
 ### Risk Controls
 
-Applies operational safeguards and position validation before orders are sent to the broker.
-
-### Execution Engine
-
-Handles order placement, tracking, and broker communication.
+Applies position validation, exposure checks, and operational safeguards.
 
 ### Position Management
 
-Maintains system state and synchronizes positions between the platform and broker.
+Maintains state synchronization and position tracking across the platform.
 
-### Recovery System
+### Recovery Engine
 
-Restores state after restarts and validates platform consistency.
+Provides startup recovery, validation, reconciliation, and consistency checks.
+
+### Execution Engine
+
+Handles order placement, monitoring, updates, and broker communication.
 
 ### Monitoring Dashboard
 
-Provides operational visibility, status monitoring, and system controls.
+Provides operational visibility, system monitoring, alerts, and controls.
 
----
+### Cloud Infrastructure
 
-## Design Principles
+Supports deployment, service management, monitoring, and operational reliability.
 
-* Reliability First
-* Risk-Aware Execution
-* Fault Isolation
-* Recoverability
-* Operational Transparency
-* Cloud-Native Deployment
+### Security Layer
+
+Provides authentication, encryption, rate limiting, firewall protection, and intrusion prevention.
