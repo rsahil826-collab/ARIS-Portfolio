@@ -34,14 +34,14 @@ into a single operational framework.
 * Security-hardened deployment
 
 ---
-**[Architecture](docs/architecture.md)
+[Architecture](docs/architecture.md)
 ---
-**[Infrastructure](docs/infrastructure.md)
+[Infrastructure](docs/infrastructure.md)
 ---
-**[Security](docs/security.md)
+[Security](docs/security.md)
 ---
-**[Deployment](docs/deployment.md)**
-
+[Deployment](docs/deployment.md)**
+---
 ## Documentation
 
 
