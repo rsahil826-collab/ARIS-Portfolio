@@ -10,7 +10,7 @@ The platform separates signal processing, execution, monitoring, recovery, and i
 
 ## Architecture Diagram
 
-![ARIS Architecture](../assets/arch.png)
+![ARIS Architecture](../assets/ChatGPT Image Jun 14, 2026, 09_36_54 PM.png)
 
 ---
 
