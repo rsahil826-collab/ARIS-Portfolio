@@ -40,7 +40,7 @@ into a single operational framework.
 ---
 [Security](docs/security.md)
 ---
-[Deployment](docs/deployment.md)**
+[Deployment](docs/deployment.md)
 ---
 
 
