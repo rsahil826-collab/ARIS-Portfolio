@@ -46,4 +46,8 @@ into a single operational framework.
 ---
 
 
+## Screenshots
 
+View all platform screenshots:
+
+[View Screenshot Gallery](docs/screenshots.md)
