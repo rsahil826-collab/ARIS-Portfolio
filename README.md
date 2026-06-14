@@ -46,3 +46,15 @@ into a single operational framework.
 ---
 [View Screenshot Gallery](docs/screenshots.md)
 ---
+
+
+## Connect
+
+LinkedIn: www.linkedin.com/in/sahilrao
+
+
+## Disclaimer
+
+This repository is intended for portfolio and demonstration purposes only.
+
+Proprietary trading strategies, execution logic, credentials, and production source code are intentionally excluded.
